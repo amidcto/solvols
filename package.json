@@ -1,12 +1,12 @@
 {
 	"name": "Solana-Volume-Bot",
 	"version": "1.0.0",
-	"description": "https://t.me/benorizz0",
+	"description": "Chatgptismybestfriend",
 	"main": "index.js",
 	"scripts": {
 		"start": "ts-node jitoPool.ts"
 	},
-	"author": "https://t.me/benorizz0",
+	"author": "onchain cto",
 	"license": "ISC",
 	"dependencies": {
 		"@coral-xyz/anchor": "^0.29.0",
